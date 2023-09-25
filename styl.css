@@ -12,3 +12,13 @@ body {
     top: 0;
     right: 0;
 }
+
+#dot {
+    height: 25px;
+    width: 25px;
+    background-color: blanchedalmond;
+    display: inline-bock;
+    border-radius: 50%;
+    position: absolute
+
+}
