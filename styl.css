@@ -5,9 +5,10 @@
 body {
     width: 100vw;
     height: 100vh;
-    
 }
 .displaymousepos {
+    background: #c1ff15;
+    padding: 2px;
     position: fixed;
     top: 0;
     right: 0;
@@ -17,8 +18,7 @@ body {
     height: 25px;
     width: 25px;
     background-color: blanchedalmond;
-    display: inline-bock;
+    display: inline-block;
     border-radius: 50%;
-    position: absolute
-
+    position: absolute;
 }
